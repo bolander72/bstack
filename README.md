@@ -1,6 +1,6 @@
 # bstack
 
-OpenClaw skills by [bolander72](https://boland.co).
+OpenClaw skills by [bolander72](https://github.com/bolander72).
 
 ## Skills
 
