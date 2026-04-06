@@ -5,6 +5,8 @@ description: "Manage email via mbsync/isync — sync IMAP mailboxes to local Mai
 
 # isync (mbsync) — Local Email Sync & Reader
 
+Project: https://isync.sourceforge.io/
+
 Sync IMAP mailboxes to local Maildir format using `mbsync`, then read/search/filter messages directly from the filesystem. Fast, offline-capable, no IMAP timeout issues.
 
 ## Architecture

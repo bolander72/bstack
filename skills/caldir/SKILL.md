@@ -5,6 +5,8 @@ description: "Manage calendars and events via caldir CLI — view today's schedu
 
 # caldir — Calendar Management
 
+Project: https://caldir.org/
+
 CLI tool for managing calendar events across iCloud and Google Calendar. Events stored locally as .ics files, synced bidirectionally with remote providers.
 
 ## Setup
