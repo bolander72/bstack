@@ -14,12 +14,6 @@ OpenClaw skills by [bolander72](https://github.com/bolander72).
 | [ecobee](skills/ecobee/) | Ecobee thermostat control via Home Assistant API |
 | [ratgdo32-disco](skills/ratgdo32-disco/) | Garage door control via ratgdo32 disco local web API |
 
-## Install
-
-```bash
-clawhub install bolander72/bstack/skills/<skill-name>
-```
-
 ## License
 
 MIT
