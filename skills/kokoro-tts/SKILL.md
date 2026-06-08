@@ -81,11 +81,11 @@ silence = np.zeros(int(sample_rate * 0.15), dtype=samples.dtype)
 samples = np.concatenate([silence, samples])
 ```
 
-## Sending via BlueBubbles
+## Sending via iMessage
 
 After generating the .caf file, send as a voice message:
 ```
-message action=upload-file channel=bluebubbles target=<recipient>
+message action=upload-file channel=imessage target=<recipient>
   filePath=/path/to/voice_reply.caf
   filename="Audio Message.caf"
   contentType="audio/x-caf"
