@@ -6,6 +6,7 @@ OpenClaw skills by [bolander72](https://github.com/bolander72).
 
 | Skill | Description |
 |-------|-------------|
+| [agent-chief-of-staff](skills/agent-chief-of-staff/) | Coordinate agent teams with bounded delegation, verification infrastructure, and earned autonomy |
 | [isync](skills/isync/) | Manage email via mbsync/isync — sync IMAP mailboxes to local Maildir |
 | [caldir](skills/caldir/) | Manage calendars via caldir — view, create, sync events |
 | [kokoro-tts](skills/kokoro-tts/) | Local text-to-speech via Kokoro-ONNX or mlx-audio — zero cost, no API keys |
