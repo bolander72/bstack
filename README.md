@@ -1,7 +1,5 @@
 # bstack
 
-OpenClaw skills by [bolander72](https://github.com/bolander72).
-
 ## Skills
 
 | Skill | Description |
@@ -15,7 +13,3 @@ OpenClaw skills by [bolander72](https://github.com/bolander72).
 | [vault-sync](skills/vault-sync/) | Git-based workspace backup with smart commit messages |
 | [ecobee](skills/ecobee/) | Ecobee thermostat control via Home Assistant API |
 | [ratgdo32-disco](skills/ratgdo32-disco/) | Garage door control via ratgdo32 disco local web API |
-
-## License
-
-MIT
